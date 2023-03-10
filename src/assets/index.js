@@ -13,6 +13,7 @@ import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
+import express from "./tech/express.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
@@ -20,6 +21,8 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import mysql from "./tech/mysql.png"
+import github2 from "./tech/github2.png"
 
 import indigoroad from "./company/indigoroad.jpg";
 import compass from "./company/compass.png";
@@ -36,7 +39,9 @@ export {
   creator,
   mobile,
   web,
+  github2,
   github,
+  mysql,
   menu,
   close,
   css,
@@ -49,6 +54,7 @@ export {
   nodejs,
   reactjs,
   redux,
+  express,
   tailwind,
   typescript,
   threejs,

@@ -8,12 +8,13 @@ import {
   html,
   css,
   reactjs,
+  mysql,
   redux,
   tailwind,
   nodejs,
   mongodb,
   git,
-  figma,
+  express,
   docker,
   indigoroad,
   upwork,
@@ -23,6 +24,7 @@ import {
   pocket,
   weather,
   threejs,
+  github2,
 } from "../assets";
 
 export const navLinks = [
@@ -77,8 +79,8 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "mysql",
+    icon: mysql,
   },
   {
     name: "Tailwind CSS",
@@ -101,12 +103,12 @@ const technologies = [
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
+    name: "express",
+    icon: express,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "github",
+    icon: github2,
   },
 ];
 
